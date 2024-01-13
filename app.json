@@ -19,7 +19,7 @@
   },
   "cron": [
     {
-      "command": "echo wooooow",
+      "command": "curl https://ad0d-165-16-61-153.ngrok-free.app",
       "schedule": "* * * * *"
     }
   ]
